@@ -7,4 +7,3 @@
 - 👋 Hi, I’m @vdafeider
 - 👀 I’m interested in Web development and Data Anaylics
 - 💞️ I’m looking to collaborate on some project
-- 📫 How to reach me v.babunych@gmail.com
