@@ -5,5 +5,5 @@
 </picture>
 
 - 👋 Hi, I’m @vdafeider
-- 👀 Expertise in Web development and data Analytics
+- 👀 Expertise in Web Development and Data Analytics
 - 💞️ Available for project collaboration
