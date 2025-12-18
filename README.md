@@ -4,6 +4,5 @@
   <img alt="picture" src="https://avatars.githubusercontent.com/u/16578570?v=4">
 </picture>
 
-- 👋 Hi, I’m @vdafeider
-- 👀 Expertise in Web Development and Data Analytics
-- 💞️ Available for project collaboration
+- Expertise in Law, Web Development and Data Analytics
+- Available for project collaboration
