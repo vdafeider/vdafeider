@@ -4,4 +4,4 @@
   <img alt="picture" src="https://avatars.githubusercontent.com/u/16578570?v=4">
 </picture>
 
-PhD Lawyer • Data Analyst / Scientist • Web Developer • Manager • Photographer
+Data Analyst / Scientist • BI Dashboard Developer • Web Developer • Manager • Photographer
